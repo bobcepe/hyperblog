@@ -5,3 +5,5 @@ edad 33 años
 1.78
 
 90 Kg
+
+hablaremos de su vida
